@@ -1,7 +1,5 @@
 #############################
-# Trulia Spider (Entry Point)
-# Author: (EJ) Vivek Pandey
-# Last Modified: 03/05/2019
+# Last Modified: 03/05/2024
 #############################
 
 import scrapy
