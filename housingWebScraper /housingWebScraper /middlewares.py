@@ -6,7 +6,6 @@
 # See documentation in:
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 #
-# Author: (EJ) Vivek Pandey
 # Last Modified: 03/05/2019
 #############################
 
