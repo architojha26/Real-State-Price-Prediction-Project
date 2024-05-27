@@ -6,8 +6,7 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 #
-# Author: (EJ) Vivek Pandey
-# Last Modified: 03/05/2019
+# Last Modified: 03/05/2023
 #############################
 
 from scrapy import signals
