@@ -1,4 +1,4 @@
-### LilHomie - Housing Price Prediction Rapid Prototype
+### Real Estate Price Prediction Project
 
 ### Author: Archit Ojha
 
