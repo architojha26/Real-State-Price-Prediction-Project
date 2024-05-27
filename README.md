@@ -12,7 +12,7 @@ This repository contains all the associated work that has been done for the area
 
 ### Future Enhancements
 * Adding support to crawl and extract through remaining 3 property page formats in Trulia
-* Spiders in Web Crawler to extract data from Zillow
+* Spiders in Web Crawler to extract data from Kaggle
 * Speeding up the crawler with distributed spiders
 * Feeding the ML model with data of properties across the US and making necessary adjustments based on new results, instead of the tri-states properties it is limited to (but this requires the above three enhancements to be done first)
 
