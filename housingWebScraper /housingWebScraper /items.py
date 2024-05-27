@@ -6,8 +6,7 @@
 # See documentation in:
 # https://doc.scrapy.org/en/latest/topics/items.html
 #
-# Author: (EJ) Vivek Pandey
-# Last Modified: 03/05/2019
+# Last Modified: 03/05/2023
 #############################
 
 import scrapy
